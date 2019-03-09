@@ -1,0 +1,49 @@
+# GitPitch In-60-Seconds - A Very Short Tutorial.
+#
+
+#
+# Theme Setting
+# Doc: https://gitpitch.com/docs/settings/theme
+#
+theme : simple
+
+#
+# Theme-Override Setting
+# Doc: https://gitpitch.com/docs/settings/custom-theme
+#
+theme-override: assets/css/PITCHME.css
+
+#
+# Logo Setting
+# https://gitpitch.com/docs/settings/logo
+#
+logo : assets/img/logo.png
+logo-postion : top-left
+
+#
+# Layout Setting
+# Doc: https://gitpitch.com/docs/settings/layout
+#
+layout : center
+
+#
+# Footnote Setting
+# Doc: https://gitpitch.com/docs/settings/footnote
+#
+footnote : "Just Enough Network Automation To Get You Started"
+
+#
+# Published Setting
+# Doc: https://gitpitch.com/docs/settings/published
+#
+published : true
+
+#
+# Twitter Card Settings [Pro Only]
+# Doc: https://gitpitch.com/docs/settings/twitter-card
+#
+title : "Just Enough Network Automation To Get You Started"
+description : "There can be any number of real and percieved obstacles to getting started with Network Automation.  There is no question that for many this revolution in networking is way way outside our “comfort zone”. We’ve gone from network automation being a ‘boutique’ capability for those so inclined to a booming business with many choices.  We’ve gone from “show interface” to Python, Netmiko, Ansible, REST, API, SaltStack, Postman, NETCONF, RESTCONF, JSON, YAML and so many more. Every day we get closer to a world where this is a required skill set rather than a desired one so lets get started.
+We will take a common network engineering activity and look at performing that task using python and using Ansible so we can compare and contrast each approach.  Its time to revel in being outside your comfort zone.
+"
+thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
