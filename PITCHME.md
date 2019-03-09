@@ -2,23 +2,27 @@
 
 ---
 
-## Add Some Slide Candy
+## Abstract & Introduction
 
 ![](assets/img/presentation.png)
 
+There can be any number of real and percieved obstacles to getting started with Network Automation.  There is no question that for many this revolution in networking is way way outside our “comfort zone”. We’ve gone from network automation being a ‘boutique’ capability for those so inclined to a booming business with many choices.  We’ve gone from “show interface” to Python, Netmiko, Ansible, REST, API, SaltStack, Postman, NETCONF, RESTCONF, JSON, YAML and so many more. Every day we get closer to a world where this is a required skill set rather than a desired one so lets get started.
+We will take a common network engineering activity and look at performing that task using python and using Ansible so we can compare and contrast each approach.  Its time to revel in being outside your comfort zone.
+
+
 ---
-@title[Customize Slide Layout]
+@title[Tools]
 
 @snap[west span-50]
-## Customize Slide Content Layout
+## Tools
 @snapend
 
 @snap[east span-50]
 ![](assets/img/presentation.png)
 @snapend
 
----?color=#E58537
-@title[Add A Little Imagination]
+---
+@title[Skills]
 
 @snap[north-west]
 #### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
@@ -37,12 +41,21 @@
 @img[shadow](assets/img/conference.png)
 @snapend
 
----?image=assets/img/presenter.jpg
-
+---
+@title[Test Environment]
 @snap[north span-100 headline]
-## Now It's Your Turn
+## Test Environment
 @snapend
 
-@snap[south span-100 text-06]
-[Click here to jump straight into the interactive feature guides in the GitPitch Docs @fa[external-link]](https://gitpitch.com/docs/getting-started/tutorial/)
+
+---
+@title[Tools Environment]
+@snap[north span-100 headline]
+## Test Environment
+@snapend
+
+---
+@title[Demo]
+@snap[north span-100 headline]
+## Demo
 @snapend
