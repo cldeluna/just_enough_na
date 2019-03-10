@@ -85,7 +85,7 @@ Common Network Task:
 ---
 ## Conclusion
 
-- Quick Start
+- Quick Start Strategy
 - Don't underestimate the value of the side trips
 
 ---
